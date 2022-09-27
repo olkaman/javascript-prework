@@ -1,7 +1,9 @@
 body {
 	margin: 0;
 	padding: 0;
-	background: green;
+	background: #d5f0dc;
+	font-family: 'Roboto', sans-serif;
+	color: #222;
 }
 
 .container {
@@ -31,9 +33,10 @@ p {
 
 a {
 	display: inline-block;
-	background: green;
+	background: #428c65;
 	color: #fff;
 	padding: 15px 30px;
 	text-decoration: none;
 	margin: 0 5px;
+	border-radius: 30px;
 }
